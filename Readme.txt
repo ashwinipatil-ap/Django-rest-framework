@@ -1,0 +1,1 @@
+This is simple rest framework example
